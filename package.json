@@ -1,0 +1,12 @@
+{
+  "name": "estudo",
+  "version": "1.0.0",
+  "description": "Exemplo de PageObjects",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
