@@ -1,55 +1,8 @@
-# Diretórios de dependências
+downloads/
+reports/
+videos/
+screenshots/
 node_modules/
-
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Diretórios de build e produção
-dist/
-build/
-
-# Arquivos de ambiente
-.env
-.env.local
-.env.*.local
-
-# Arquivos de cache
-.cache/
-.tmp/
-out/
-
-# Diretórios de IDEs/editores
-.vscode/
+cypress.env.json
 .idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-
-# Arquivos do sistema operacional
-.DS_Store
-Thumbs.db
-
-# Configurações específicas do npm/yarn/pnpm
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
-
-# Cobertura de testes
-coverage/
-
-# Cypress
-cypress/screenshots/
-cypress/videos/
-
-# Lint
-.eslintcache
-
-# Outros
-*.bak
-*.pid
+.vscode/
